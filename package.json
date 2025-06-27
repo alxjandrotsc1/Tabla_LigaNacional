@@ -1,0 +1,18 @@
+{
+  "name": "liga_nacional",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "less": "^4.3.0",
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "vite-plugin-handlebars": "^2.0.0"
+  }
+}
